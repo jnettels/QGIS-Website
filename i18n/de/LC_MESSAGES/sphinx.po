@@ -187,11 +187,11 @@ msgid ""
 "of the Open Source Geospatial Foundation (OSGeo). It runs on Linux, Unix, "
 "Mac OSX, Windows and Android and supports numerous vector, raster, and "
 "database formats and functionalities."
-msgstr "QGIS ist eine benutzerfreundliches Open-Source geographisches Informationssystem (GIS), das unter der GNU General-Public-License steht. QGIS ist ein offizielles Mitglied der Open-Source-Geospatial-Foundation (OSGeo). Es läuft unter Linux, Unix, Mac OSX, Windows und Androis und unterstützt eine Vielzahl von Vektor-, Raster- und Datenbankformate und -funktionen."
+msgstr "QGIS ist eine benutzerfreundliches Open-Source geographisches Informationssystem (GIS), das unter der GNU General-Public-License steht. QGIS ist ein offizielles Mitglied der Open-Source-Geospatial-Foundation (OSGeo). Es läuft unter Linux, Unix, Mac OSX, Windows sowie Android und unterstützt eine Vielzahl von Vektor-, Raster- und Datenbankformaten und -funktionen."
 
 #: ../../themes/qgis-theme/about_index.html:55
 msgid "Our latest release is QGIS "
-msgstr "Unsere aktuelleste QGIS-Version ist"
+msgstr "Unsere aktuellste QGIS-Version ist "
 
 #: ../../themes/qgis-theme/about_index.html:56
 msgid "Get started"
@@ -237,7 +237,7 @@ msgstr "Um QGIS in Aktion zu sehen, sehen Sie die gemeinschaftliche"
 
 #: ../../themes/qgis-theme/about_index.html:89
 msgid "QGIS screenshots"
-msgstr "QGIs-Bildschirmfotos an"
+msgstr "QGIS-Bildschirmfotos"
 
 #: ../../themes/qgis-theme/about_index.html:104
 msgid "Case Studies"
@@ -247,11 +247,11 @@ msgstr "Fallstudien"
 msgid ""
 "We also collect case studies of how people all over the world use QGIS for "
 "their GIS work."
-msgstr "Die QGIS-Gemeinschaft hat einige Fallstudien zusammengegestelt, die zeigen wie weltweit Nutzer für ihre Arbeit einsetzen."
+msgstr "Die QGIS-Gemeinschaft hat einige Fallstudien zusammengegestelt, die zeigen wie weltweit Nutzer QGIS für ihre Arbeit einsetzen."
 
 #: ../../themes/qgis-theme/about_index.html:107
 msgid "See our QGIS case studies"
-msgstr "Sie unsere QGIS-Fallstudien"
+msgstr "Sehen Sie unsere QGIS-Fallstudien an"
 
 #: ../../themes/qgis-theme/about_index.html:116
 msgid ""
@@ -267,7 +267,7 @@ msgid ""
 "Do you plan to use QGIS in your company or organization, but worry about "
 "whether there is commercial support available? Here is an alphabetical list,"
 " divided in categories, of support contractors."
-msgstr "Wenn Sie planen QGIS in Ihrer Firma oder Organisation einzusetzen, aber machen sich Sorgen, dass es keine kommerzielle Unterstützung gibt?  Hier ist eine alphabetische, in Kategorien aufgeteilte Liste von Supportfirmen."
+msgstr "Sie planen QGIS in Ihrer Firma oder Organisation einzusetzen, aber machen sich Sorgen, dass es keine kommerzielle Unterstützung gibt?  Hier ist eine alphabetische, in Kategorien aufgeteilte Liste von Supportfirmen."
 
 #: ../../themes/qgis-theme/about_index.html:137
 msgid "Learn about Commercial Support for QGIS"
@@ -388,7 +388,7 @@ msgstr "Bücher über QGIS"
 
 #: ../../themes/qgis-theme/forusers_index.html:129
 msgid "You can get in touch with fellow users and developers via"
-msgstr "Sie können mit Mitbenutzern und Entwicklung aufnehmen über"
+msgstr "Sie können mit Mitbenutzern und Entwicklern Kontakt aufnehmen über"
 
 #: ../../themes/qgis-theme/forusers_index.html:131
 msgid "our community support channels"
@@ -398,7 +398,7 @@ msgstr "unsere gemeinschaftlichen Supportkanäle"
 msgid ""
 "Do you plan to use QGIS in your company or organization, but worry about whether there is\n"
 "                    commercial support available? Here is an alphabetical"
-msgstr "Wenn Sie planen QGIS in Ihrer Firma oder Organisation einzusetzen, aber machen sich Sorgen, dass es keine kommerzielle Unterstützung gibt?  Hier ist eine alphabetische Liste"
+msgstr "Sie planen QGIS in Ihrer Firma oder Organisation einzusetzen, aber machen sich Sorgen, dass es keine kommerzielle Unterstützung gibt? Hier ist eine alphabetische Liste"
 
 #: ../../themes/qgis-theme/forusers_index.html:144
 msgid "list of support contractors"
@@ -411,7 +411,7 @@ msgstr "Erweiterungen bekommen"
 #: ../../themes/qgis-theme/forusers_index.html:161
 msgid ""
 "QGIS plugins allow you to add many new features and functions. Get them from"
-msgstr "Mit QGIS-Erweiterungen können viele neue Funktionen hinzugefügt werden. Holen Sie sich aus dem"
+msgstr "Mit QGIS-Erweiterungen können viele neue Funktionen hinzugefügt werden. Holen Sie sie sich aus dem"
 
 #: ../../themes/qgis-theme/forusers_index.html:164
 msgid "the plugin repository"
@@ -932,7 +932,7 @@ msgstr "melden"
 
 #: ../../themes/qgis-theme/getinvolved_index.html:79
 msgid "so developers can check and fix it.  "
-msgstr "Sie diesen bitte den Entwickler, sodass diese ihn prüfen und beheben können."
+msgstr "Sie diesen bitte den Entwicklern, sodass diese ihn prüfen und beheben können."
 
 #: ../../themes/qgis-theme/getinvolved_index.html:85
 msgid "Participate in Support Channels"
